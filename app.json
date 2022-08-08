@@ -1,0 +1,17 @@
+{
+	"name": "qr-test",
+	"description": " qr code.",
+	"keywords": [
+		"whatsapp",
+		"bot"
+	],
+	"repository": "https://github.com/paht-test-91/qr-test/",
+	"stack": "container",
+	"env": {
+	
+},"addons": [
+		{
+			"plan": "heroku-postgresql"
+		}
+	]
+}
