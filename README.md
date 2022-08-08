@@ -18,7 +18,7 @@ World best multi device whatsapp bot🖤
 ## `Now fork`
 
 ## now `Deploy`
-[![Deploy](https://heroku.com/deploy?template=https://github.com/paht-test-91/whatsapp-bot-md)](https://heroku.com/deploy?template=https://github.com/paht-test-91/whatsapp-bot-md)
+[![Deploy](https://heroku.com/deploy?template=https://github.com/paht-test-91/qr-tets)](https://heroku.com/deploy?template=https://github.com/paht-test-91/qr-test)
 
 
 > <a href="https://github.com/BlackPanther-svg/Queen-Ashiya/discussions"><img src="https://user-images.githubusercontent.com/105980099/177285430-7c7c67f1-30b2-43d1-a30c-667682c4e320.png" alt="nz" width="100"/> 
