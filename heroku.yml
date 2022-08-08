@@ -1,2 +1,5 @@
-run:   
-worker: npm start
+build:
+  docker:
+    worker: Dockerfile
+run:
+  worker: npm start
